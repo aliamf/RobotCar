@@ -15,3 +15,5 @@
 for wheels, I have choose mecanum wheel due to the higher diversity of motion direction.
 
 -Morphological analysis is added in image.png
+
+-3D printable case for the car to hide cables abd electronics can be desighned after choosing the parts.
