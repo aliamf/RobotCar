@@ -13,3 +13,5 @@
 
 -arduino mega 3d printable case added to the assembly as reference.
 for wheels, I have choose mecanum wheel due to the higher diversity of motion direction.
+
+-Morphological analysis is added in image.png
